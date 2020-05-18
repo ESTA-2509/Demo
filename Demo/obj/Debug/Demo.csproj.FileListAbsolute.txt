@@ -1,0 +1,13 @@
+E:\NT219\Demo\Demo\bin\Debug\Demo.exe.config
+E:\NT219\Demo\Demo\bin\Debug\Demo.exe
+E:\NT219\Demo\Demo\bin\Debug\Demo.pdb
+E:\NT219\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+E:\NT219\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\NT219\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\NT219\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\NT219\Demo\Demo\obj\Debug\Demo.exe
+E:\NT219\Demo\Demo\obj\Debug\Demo.pdb
+E:\NT219\Demo\Demo\obj\Debug\Demo.main.resources
+E:\NT219\Demo\Demo\obj\Debug\Demo.Login.resources
+E:\NT219\Demo\Demo\obj\Debug\Demo.register.resources
+E:\NT219\Demo\Demo\obj\Debug\Demo.OTP.resources
